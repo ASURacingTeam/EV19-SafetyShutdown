@@ -1,0 +1,70 @@
+Source:,C:\Users\A.SaleH\Desktop\EV19\EV19\BSPD_SMD\BSPD_SMD.sch,,,,,
+Date:,2/21/2019 17:54,,,,,
+Tool:,Eeschema (5.0.2)-1,,,,,
+Generator:,C:\Program Files\KiCad\bin\scripting\plugins/bom_csv_grouped_by_value.py,,,,,
+Component Count:,41,,,,,
+,,,,,,
+Individual Components:,,,,,,
+,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet
+,,C6,1uF,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,C7,1uF,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,C8,1uF,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,C9,1uF,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,C10,10uF,Device:C,Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder,~
+,,C11,100nF,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,C12,100nF,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,C13,10uF,Device:C,Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder,~
+,,C14,100nF,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,C15,100nF,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,C16,100nF,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,C19,100nF,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,C20,100nF,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,J1,DB9_Female,Connector:DB9_Female,Connector_Dsub:DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm, ~
+,,J2,DB9_Female,Connector:DB9_Female,Connector_Dsub:DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm, ~
+,,Q1,BC817,Transistor_BJT:BC817,Package_TO_SOT_SMD:SOT-23,http://www.fairchildsemi.com/ds/BC/BC817.pdf
+,,R1,560R,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,R2,1K,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,R3,1K,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,R4,1K,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,R5,R,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,R6,R,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,R7,1K,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,R8,100K,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,R9,100K,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,R10,R,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,R11,R,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,R12,R,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,R13,R,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,R14,R,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,R15,R,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,R16,10K,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,R17,10K,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,R18,10K,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,R19,1M,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,R20,100K,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+,,U4,LM393,Comparator:LM393,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,http://www.ti.com/lit/ds/symlink/lm393-n.pdf
+,,U5,LM393,Comparator:LM393,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,http://www.ti.com/lit/ds/symlink/lm393-n.pdf
+,,U6,74LVC1G32,74xGxx:74LVC1G32,Package_TO_SOT_SMD:SOT-23-5,http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+,,U7,74LVC1G32,74xGxx:74LVC1G32,Package_TO_SOT_SMD:SOT-23-5,http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+,,U8,AMS1117-5.0,Regulator_Linear:AMS1117-5.0,Package_TO_SOT_SMD:SOT-223-3_TabPin2,http://www.advanced-monolithic.com/pdf/ds1117.pdf
+,,,,,,
+,,,,,,
+,,,,,,
+Collated Components:,,,,,,
+,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet
+1,4,"C6, C7, C8, C9",1uF,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+2,2,"C10, C13",10uF,Device:C,Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder,~
+3,7,"C11, C12, C14, C15, C16, C19, C20",100nF,Device:C,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+4,2,"J1, J2",DB9_Female,Connector:DB9_Female,Connector_Dsub:DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm, ~
+5,1,Q1,BC817,Transistor_BJT:BC817,Package_TO_SOT_SMD:SOT-23,http://www.fairchildsemi.com/ds/BC/BC817.pdf
+6,1,R1,560R,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+7,4,"R2, R3, R4, R7",1K,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+8,8,"R5, R6, R10, R11, R12, R13, R14, R15",R,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+9,3,"R8, R9, R20",100K,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+10,3,"R16, R17, R18",10K,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+11,1,R19,1M,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,~
+12,2,"U4, U5",LM393,Comparator:LM393,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,http://www.ti.com/lit/ds/symlink/lm393-n.pdf
+13,2,"U6, U7",74LVC1G32,74xGxx:74LVC1G32,Package_TO_SOT_SMD:SOT-23-5,http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+14,1,U8,AMS1117-5.0,Regulator_Linear:AMS1117-5.0,Package_TO_SOT_SMD:SOT-223-3_TabPin2,http://www.advanced-monolithic.com/pdf/ds1117.pdf

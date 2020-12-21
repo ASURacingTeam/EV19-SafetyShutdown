@@ -1,0 +1,3 @@
+logging.c:12:6:log_to_uart	16	static
+logging.c:15:6:log_to_sd_raw	120	static
+logging.c:31:6:log_u	16	static

@@ -1,0 +1,12 @@
+/*
+ * error_handling.c
+ *
+ *  Created on: Apr 2, 2019
+ *      Author: A.SaleH
+ */
+#include "error_handling.h"
+#include "logging.h"
+
+void safe_reset_ecu(){
+	// TODO
+}

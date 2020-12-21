@@ -1,0 +1,27 @@
+Drill report for C:/Users/A.SaleH/Desktop/EV19/EV19/TSAL_SMD/TSAL_SMD.kicad_pcb
+Created on 2/20/2019 12:53:04 AM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'TSAL_SMD-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.80mm  0.031"  (14 holes)
+    T2  1.00mm  0.039"  (9 holes)
+    T3  1.10mm  0.043"  (6 holes)
+    T4  1.20mm  0.047"  (8 holes)
+    T5  3.20mm  0.126"  (2 holes)
+    T6  4.00mm  0.157"  (4 holes)
+
+    Total plated holes count 43
+
+
+Drill file 'TSAL_SMD-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
